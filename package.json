@@ -61,7 +61,7 @@
     "tablemark": "^2.0.0",
     "ts-jest": "^24.3.0",
     "typescript": "^4.0.2",
-    "yaml": "^1.10.0"
+    "yaml": "^2.2.2"
   },
   "config": {
     "commitizen": {
